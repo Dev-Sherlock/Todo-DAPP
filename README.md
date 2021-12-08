@@ -23,3 +23,10 @@ truffle migrate
 npm run dev
 ```
 The server will run on http://127.0.0.1:3000
+
+
+## How to test the project:
+To test the project, type the following command:
+```
+truffle test
+```
